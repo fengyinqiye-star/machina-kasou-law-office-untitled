@@ -1,7 +1,11 @@
 import { Resend } from "resend";
 import type { ContactFormInput } from "./validators/contact";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+// Resend インスタンスはモジュールロード時ではなく関数呼び出し時に初期化する
+// （ビルド時に RESEND_API_KEY が未設定でもビルドエラーにならないようにするため）
+function getResend(): Resend {
+  return new Resend(process.env.RESEND_API_KEY);
+}
 
 function esc(str: string): string {
   return str
@@ -27,7 +31,7 @@ export async function sendNotificationEmail(data: ContactFormInput) {
     categoryLabels[data.category]?.ja || data.category;
   const now = new Date().toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" });
 
-  await resend.emails.send({
+  await getResend().emails.send({
     from: process.env.RESEND_FROM_EMAIL || "noreply@ai-company.dev",
     to: process.env.NOTIFICATION_EMAIL || "futo0819@i.softbank.jp",
     subject: `[相談予約] ${data.name}様より - ${categoryLabel}`,
@@ -88,7 +92,7 @@ export async function sendAutoReplyEmail(data: ContactFormInput) {
       </div>
     `;
 
-  await resend.emails.send({
+  await getResend().emails.send({
     from: process.env.RESEND_FROM_EMAIL || "noreply@ai-company.dev",
     to: data.email,
     subject,
