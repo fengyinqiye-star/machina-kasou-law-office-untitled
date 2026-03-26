@@ -1,0 +1,411 @@
+{
+  "common": {
+    "officeName": "Kasou Law Office",
+    "officeNameEn": "Kasou Law Office",
+    "phone": "+81-3-1234-5678",
+    "phoneInternational": "+81-3-1234-5678",
+    "phoneTel": "tel:+81312345678",
+    "phoneTelInternational": "tel:+81312345678",
+    "address": "Marunouchi Building 10F, 1-1-1 Marunouchi, Chiyoda-ku, Tokyo",
+    "businessHours": "Weekdays 9:00 AM - 6:00 PM",
+    "closedDays": "Closed on weekends and public holidays",
+    "freeConsultation": "Book a Free Consultation",
+    "callUs": "Call Us",
+    "learnMore": "Learn More",
+    "backToTop": "Back to Home",
+    "required": "Required",
+    "copyright": "2026 Kasou Law Office. All Rights Reserved."
+  },
+  "nav": {
+    "home": "Home",
+    "practiceAreas": "Practice Areas",
+    "lawyers": "Our Lawyers",
+    "office": "About Us",
+    "fees": "Fee Schedule",
+    "contact": "Book Consultation",
+    "privacyPolicy": "Privacy Policy",
+    "disclaimer": "Disclaimer"
+  },
+  "hero": {
+    "title": "Protecting Your Rights\nWith Full Commitment.",
+    "subtitle": "First 30-minute consultation free -- Law office in Chiyoda-ku, Tokyo",
+    "cta": "Book a Free Consultation",
+    "callCta": "Call Us Now"
+  },
+  "strengths": {
+    "sectionTitle": "Why Choose Kasou Law Office",
+    "items": [
+      {
+        "title": "First 30 Minutes Free",
+        "description": "We offer a free initial 30-minute legal consultation to make it easy for you to take the first step. Please share your concerns with us."
+      },
+      {
+        "title": "30 Years of Combined Experience",
+        "description": "Lead attorney Ichiro Kasou (20 years) and attorney Hanako Kasou (10 years) bring extensive experience to provide optimal solutions for your legal issues."
+      },
+      {
+        "title": "Japanese & English Support",
+        "description": "We provide consultations in both Japanese and English, ensuring that international residents in Japan can receive proper legal support."
+      }
+    ]
+  },
+  "practiceAreas": {
+    "sectionTitle": "Practice Areas",
+    "sectionSubtitle": "We handle a wide range of legal matters to help resolve your issues.",
+    "categories": {
+      "divorce": {
+        "name": "Divorce & Family Law",
+        "summary": "We provide comprehensive support for divorce negotiations, alimony claims, child support, property division, and custody disputes.",
+        "description": "Divorce is a major turning point in life. Our office provides appropriate legal advice at every stage -- from negotiation and mediation to litigation. We handle alimony calculations, child support arrangements, property division negotiations, custody and visitation adjustments, and more. We also handle protection orders for domestic violence cases and international divorces.",
+        "cases": [
+          "I discovered my spouse's infidelity and want to claim compensation",
+          "My ex-spouse has stopped paying child support",
+          "I'm having difficulty with property division regarding real estate",
+          "I want custody of my children but negotiations are stalled",
+          "I am a victim of domestic violence and need a protection order"
+        ],
+        "steps": [
+          { "title": "Initial Consultation", "description": "We carefully listen to your concerns and explain the legal outlook and resolution strategy." },
+          { "title": "Strategy & Engagement", "description": "We determine the optimal approach (negotiation, mediation, or litigation) based on your wishes." },
+          { "title": "Negotiation & Proceedings", "description": "We represent you in negotiations with the other party and file necessary legal proceedings." },
+          { "title": "Resolution & Follow-up", "description": "We handle agreement drafting and ensure proper implementation of court decisions." }
+        ]
+      },
+      "inheritance": {
+        "name": "Inheritance & Wills",
+        "summary": "We resolve all inheritance matters including estate division, will preparation, renunciation of inheritance, and claims for statutory share.",
+        "description": "Inheritance is a complex legal matter that must be addressed shortly after the loss of a loved one. We provide comprehensive support for estate division negotiations, will preparation and probate, inheritance renunciation procedures, and statutory share claims. From preventive measures for smooth inheritance to mediation and litigation for disputed cases, we handle it all.",
+        "cases": [
+          "The heirs cannot agree on how to divide the estate",
+          "I want to prepare a legally valid will",
+          "The deadline for inheritance renunciation is approaching",
+          "A will infringes on my statutory share and I'm considering a claim",
+          "The deceased had significant debts that have been discovered"
+        ],
+        "steps": [
+          { "title": "Initial Consultation", "description": "We assess the inheritance situation and propose an investigation plan for heirs and estate assets." },
+          { "title": "Investigation & Confirmation", "description": "We collect family registers, investigate assets, and clarify the inheritance relationships." },
+          { "title": "Division Negotiation", "description": "We represent you in heir negotiations and file for mediation if agreement cannot be reached." },
+          { "title": "Resolution & Transfer", "description": "We prepare estate division agreements and support property title transfer procedures." }
+        ]
+      },
+      "labor": {
+        "name": "Employment & Labor Law",
+        "summary": "We protect workers' rights in cases of wrongful dismissal, unpaid overtime, workplace harassment, and occupational injuries.",
+        "description": "Workplace issues directly affect your livelihood. We provide legal support to protect workers' rights, including wrongful termination negotiations, unpaid overtime claims, responses to power and sexual harassment, and support for occupational injury claims. In labor tribunals and litigation, we aim to resolve issues with strategic expertise built on extensive experience.",
+        "cases": [
+          "I was suddenly dismissed without a valid reason",
+          "I work long overtime hours but am not paid overtime wages",
+          "I am suffering from power harassment by my supervisor",
+          "I was injured at work but my employer won't acknowledge the occupational injury",
+          "I am being pressured to resign but don't want to leave"
+        ],
+        "steps": [
+          { "title": "Initial Consultation", "description": "We listen to your workplace situation and explain your legal rights and available options." },
+          { "title": "Evidence Organization", "description": "We organize and analyze evidence including employment contracts, pay slips, and email records." },
+          { "title": "Negotiation & Tribunal", "description": "We represent you in negotiations with the employer and file for labor tribunal if necessary." },
+          { "title": "Resolution", "description": "We achieve resolution through settlement payments, workplace reinstatement, or other appropriate outcomes." }
+        ]
+      },
+      "corporate": {
+        "name": "Corporate Law",
+        "summary": "We provide comprehensive support for contract drafting, compliance, M&A, intellectual property, and overall corporate legal risk management.",
+        "description": "Business activities involve various legal risks. We provide comprehensive support for corporate law, including contract drafting and review, corporate dispute resolution, compliance system development, M&A legal support, and intellectual property protection. We offer optimal legal advice tailored to companies of all sizes, from SMEs to listed corporations. Ongoing support through retainer agreements is also available.",
+        "cases": [
+          "I need a business contract drafted or reviewed",
+          "A business partner is not fulfilling their contractual obligations",
+          "Employee misconduct has been discovered and we need guidance",
+          "We are considering a merger or acquisition (M&A)",
+          "Our patents or trademarks have been infringed"
+        ],
+        "steps": [
+          { "title": "Initial Consultation", "description": "We assess your corporate legal challenges and propose a risk analysis and response strategy." },
+          { "title": "Strategy & Engagement", "description": "We present a timeline and cost estimate, then formally accept your case." },
+          { "title": "Implementation", "description": "We provide concrete legal support including contract drafting, negotiation, and litigation." },
+          { "title": "Follow-up", "description": "After resolution, we propose preventive measures and provide ongoing legal support." }
+        ]
+      },
+      "traffic": {
+        "name": "Traffic Accidents",
+        "summary": "We support accident victims in obtaining fair compensation through damage claims, disability certification, settlement negotiations, and insurance company communications.",
+        "description": "Dealing with insurance companies after a traffic accident places a heavy burden on victims. We handle all legal matters related to traffic accidents, including claims for medical expenses, lost wages, and consolation money, support for disability grade certification, settlement negotiation with insurance companies, and disputes over fault ratios. We also offer free assessments of whether insurance company offers are fair.",
+        "cases": [
+          "The settlement amount offered by the insurance company seems too low",
+          "I have residual disabilities and want proper grade certification",
+          "I disagree with the fault ratio determined for the accident",
+          "The insurance company is trying to cut off my whiplash treatment costs",
+          "The at-fault driver has no voluntary insurance and I cannot obtain compensation"
+        ],
+        "steps": [
+          { "title": "Consultation & Assessment", "description": "We review the accident details and current negotiation status, and assess the fair compensation amount." },
+          { "title": "Evidence & Medical Support", "description": "We collect evidence such as accident certificates and medical records, and support proper ongoing treatment." },
+          { "title": "Settlement Negotiation", "description": "We negotiate with the insurance company on your behalf to obtain fair compensation." },
+          { "title": "Resolution", "description": "We achieve resolution through settlement or, if necessary, by filing a lawsuit to secure proper compensation." }
+        ]
+      },
+      "real-estate": {
+        "name": "Real Estate Disputes",
+        "summary": "We resolve legal issues related to lease disputes, boundary problems, construction defects, and real estate transaction troubles.",
+        "description": "Real estate disputes require careful handling due to the high-value assets involved. We handle all legal matters related to real estate, including rent arrears and eviction claims, security deposit return negotiations, boundary disputes, construction defect damage claims, and breach of real estate purchase agreements. We provide appropriate legal advice from both landlord and tenant perspectives.",
+        "cases": [
+          "A tenant has not paid rent for an extended period and I want to seek eviction",
+          "I was charged excessive restoration costs upon moving out",
+          "A boundary dispute has arisen with the neighboring property",
+          "A serious defect was found in the property I purchased",
+          "I want to cancel a real estate purchase agreement but am worried about penalties"
+        ],
+        "steps": [
+          { "title": "Initial Consultation", "description": "We review the real estate issue and explain the legal outlook and resolution strategy." },
+          { "title": "Investigation & Evidence", "description": "We collect and analyze evidence including contracts, registry information, and site inspections." },
+          { "title": "Negotiation & Mediation", "description": "We represent you in negotiations and file for mediation if necessary." },
+          { "title": "Resolution", "description": "We prepare agreements, support registry procedures, and resolve the matter." }
+        ]
+      }
+    },
+    "feeLinkText": "View Fee Details",
+    "consultCta": "Book a Free Consultation for This Area"
+  },
+  "lawyers": {
+    "sectionTitle": "Our Lawyers",
+    "sectionSubtitle": "Experienced attorneys dedicated to resolving your legal matters.",
+    "barAssociation": "Bar Association",
+    "registrationNumber": "Registration Number",
+    "experience": "Years of Practice",
+    "years": "years",
+    "specialty": "Areas of Expertise",
+    "languages": "Languages",
+    "profiles": {
+      "ichiro": {
+        "name": "Ichiro Kasou",
+        "nameEn": "Ichiro Kasou",
+        "role": "Managing Partner",
+        "barAssociation": "Tokyo Bar Association",
+        "registrationNumber": "No. 12345",
+        "experienceYears": "20",
+        "education": "University of Tokyo, Faculty of Law; University of Tokyo Law School",
+        "specialty": "Divorce & Family Law, Inheritance & Wills, Corporate Law",
+        "languages": "Japanese, English",
+        "message": "The law exists to protect those in need. No matter how small your concern may seem, please don't hesitate to reach out. With 20 years of experience, I will work with you to find the best possible solution."
+      },
+      "hanako": {
+        "name": "Hanako Kasou",
+        "nameEn": "Hanako Kasou",
+        "role": "Attorney",
+        "barAssociation": "Daini Tokyo Bar Association",
+        "registrationNumber": "No. 67890",
+        "experienceYears": "10",
+        "education": "Keio University, Faculty of Law; Hitotsubashi University Law School",
+        "specialty": "Employment & Labor Law, Traffic Accidents, Real Estate Disputes",
+        "languages": "Japanese, English",
+        "message": "I listen carefully to each client and propose the most suitable solution for their situation. Especially in labor disputes and traffic accidents, I help ensure that you don't give up on asserting your rightful claims."
+      }
+    }
+  },
+  "office": {
+    "sectionTitle": "About Our Office",
+    "sectionSubtitle": "Access & Business Hours",
+    "infoTable": {
+      "name": "Office Name",
+      "representative": "Managing Partner",
+      "address": "Address",
+      "phone": "Phone",
+      "businessHours": "Business Hours",
+      "closedDays": "Closed",
+      "established": "Established"
+    },
+    "representativeName": "Ichiro Kasou",
+    "established": "April 2006",
+    "accessTitle": "Access",
+    "accessDescription": "5-minute walk from JR Tokyo Station (Marunouchi South Exit). Directly connected to Tokyo Metro Marunouchi Line Tokyo Station. Located on the 10th floor of the Marunouchi Building. Please inform the 1st floor reception of your name upon arrival.",
+    "emergencyNote": "For urgent matters, please call us first.",
+    "afterHoursNote": "Inquiries received outside business hours will be responded to on the next business day.",
+    "mapTitle": "Map"
+  },
+  "fees": {
+    "sectionTitle": "Fee Schedule",
+    "sectionSubtitle": "Our Fee Structure",
+    "introTitle": "How Attorney Fees Work",
+    "introText": "Attorney fees generally consist of a consultation fee, a retainer fee (paid when engaging our services), and a success fee (paid upon successful resolution of your case).",
+    "freeConsultation": "We offer a free initial 30-minute legal consultation.",
+    "consultationFee": "Consultation Fee",
+    "retainerFee": "Retainer Fee",
+    "successFee": "Success Fee",
+    "disclaimer": "Actual fees vary depending on the specifics of your case. Please feel free to inquire during your free consultation.",
+    "legalAid": "If you are experiencing financial hardship, you may be eligible for civil legal aid through the Japan Legal Support Center (Houterasu). Please inquire during your consultation.",
+    "categories": {
+      "divorce": { "name": "Divorce & Family Law", "retainer": "From 220,000 yen", "success": "From 11% of economic benefit" },
+      "inheritance": { "name": "Inheritance & Wills", "retainer": "From 220,000 yen", "success": "From 11% of economic benefit" },
+      "labor": { "name": "Employment & Labor Law", "retainer": "From 220,000 yen", "success": "From 16.5% of economic benefit" },
+      "corporate": { "name": "Corporate Law", "retainer": "From 330,000 yen", "success": "Depends on case details" },
+      "traffic": { "name": "Traffic Accidents", "retainer": "0 yen (contingency fee basis)", "success": "11% of economic benefit + 220,000 yen" },
+      "real-estate": { "name": "Real Estate Disputes", "retainer": "From 220,000 yen", "success": "From 11% of economic benefit" }
+    },
+    "taxNote": "All amounts shown include tax."
+  },
+  "contact": {
+    "sectionTitle": "Book a Consultation",
+    "sectionSubtitle": "Please don't hesitate to reach out. The first 30-minute consultation is free.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Smith",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+81-90-1234-5678",
+      "email": "Email Address",
+      "emailPlaceholder": "example@email.com",
+      "category": "Consultation Category",
+      "categoryPlaceholder": "Please select",
+      "categoryOptions": {
+        "divorce": "Divorce & Family Law",
+        "inheritance": "Inheritance & Wills",
+        "labor": "Employment & Labor Law",
+        "corporate": "Corporate Law",
+        "traffic": "Traffic Accidents",
+        "real-estate": "Real Estate Disputes",
+        "other": "Other"
+      },
+      "preferredDate": "Preferred Date & Time",
+      "preferredDatePlaceholder": "e.g. March 15 (Mon) morning, or any weekday afternoon",
+      "preferredDateHelper": "Business hours: Weekdays 9:00 AM - 6:00 PM",
+      "message": "Details of Your Inquiry",
+      "messagePlaceholder": "Please describe your legal matter",
+      "messageOtherPlaceholder": "Please describe your inquiry (e.g. neighbor dispute, defamation, etc.)",
+      "privacyAgree": "I agree to the",
+      "privacyLink": "Privacy Policy",
+      "submit": "Submit Consultation Request",
+      "submitting": "Submitting...",
+      "errors": {
+        "nameRequired": "Please enter your name",
+        "nameMax": "Name must be 50 characters or less",
+        "phoneRequired": "Please enter your phone number",
+        "phoneInvalid": "Please enter a valid phone number",
+        "emailRequired": "Please enter your email address",
+        "emailInvalid": "Please enter a valid email address",
+        "categoryRequired": "Please select a consultation category",
+        "preferredDateRequired": "Please enter your preferred date and time",
+        "messageRequired": "Please describe your inquiry",
+        "messageMin": "Message must be at least 10 characters",
+        "messageMax": "Message must be 2000 characters or less",
+        "privacyRequired": "You must agree to the Privacy Policy",
+        "serverError": "An error occurred while submitting. Please call us instead.",
+        "tooManyRequests": "Too many requests. Please try again later."
+      }
+    }
+  },
+  "thanks": {
+    "title": "Your Consultation Request Has Been Received",
+    "message": "Thank you for your inquiry. We will contact you within 3 business days.",
+    "urgent": "For urgent matters, please call us",
+    "changeCancel": "If you wish to change or cancel your appointment, please contact us by phone or email.",
+    "email": "Email",
+    "emailAddress": "info@kasou-law.jp",
+    "backToTop": "Back to Home"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "Kasou Law Office (hereinafter referred to as 'our office') has established the following privacy policy in accordance with the Act on the Protection of Personal Information (APPI) and strives to appropriately manage and protect personal information.",
+    "sections": [
+      {
+        "title": "1. Collection of Personal Information",
+        "content": "Our office collects personal information such as name, phone number, email address, and consultation details through our consultation booking form. This information is collected by proper means with the consent of the individual."
+      },
+      {
+        "title": "2. Purpose of Use",
+        "content": "Personal information collected will be used solely for the following purposes:\n- To process and respond to consultation bookings\n- To conduct legal consultations and perform legal services\n- To send notices and updates from our office (only with your consent)"
+      },
+      {
+        "title": "3. Disclosure to Third Parties",
+        "content": "Our office will not provide personal information to third parties without the prior consent of the individual, except as required by law."
+      },
+      {
+        "title": "4. Security Measures",
+        "content": "Our office takes appropriate security measures to prevent unauthorized access, loss, alteration, or leakage of personal information."
+      },
+      {
+        "title": "5. Disclosure, Correction, and Deletion",
+        "content": "Upon request from the individual for disclosure, correction, or deletion of personal information, we will promptly respond after verifying the identity of the requester."
+      },
+      {
+        "title": "6. Contact Information",
+        "content": "For inquiries regarding the handling of personal information, please contact:\n\nKasou Law Office\nMarunouchi Building 10F, 1-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005\nPhone: +81-3-1234-5678\nBusiness Hours: Weekdays 9:00 AM - 6:00 PM"
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "sections": [
+      {
+        "title": "1. Information on This Website",
+        "content": "The information published on this website is intended to provide general legal knowledge and does not constitute specific legal advice. For legal judgments regarding individual cases, please always consult with an attorney."
+      },
+      {
+        "title": "2. Accuracy of Information",
+        "content": "Our office takes great care to ensure the accuracy and currency of the information on this website, but does not guarantee its completeness or accuracy. As laws may be amended, please contact us directly for the most up-to-date information."
+      },
+      {
+        "title": "3. Attorney-Client Relationship",
+        "content": "Merely browsing this website or submitting a consultation booking form does not establish an attorney-client relationship. A formal engagement is established only upon execution of a retainer agreement following an in-person legal consultation."
+      },
+      {
+        "title": "4. Limitation of Liability",
+        "content": "Our office shall not be liable for any damages arising from actions taken based on the information on this website."
+      },
+      {
+        "title": "5. External Links",
+        "content": "Our office is not responsible for the content of external websites linked from this website."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start With a Free Consultation",
+    "subtitle": "Don't struggle alone. Reach out to us today. The first 30-minute consultation is free.",
+    "button": "Book a Free Consultation",
+    "orCall": "Or call us at"
+  },
+  "metadata": {
+    "home": {
+      "title": "Kasou Law Office | Attorneys in Chiyoda-ku, Tokyo",
+      "description": "Kasou Law Office in Marunouchi, Chiyoda-ku, Tokyo. Handling divorce, inheritance, labor disputes, corporate law, traffic accidents, and real estate disputes. First 30-minute consultation free. Japanese & English support."
+    },
+    "practiceAreas": {
+      "title": "Practice Areas | Kasou Law Office",
+      "description": "Our practice areas include divorce & family law, inheritance & wills, employment & labor law, corporate law, traffic accidents, and real estate disputes."
+    },
+    "lawyers": {
+      "title": "Our Lawyers | Kasou Law Office",
+      "description": "Meet our attorneys: Managing Partner Ichiro Kasou (20 years experience) and Attorney Hanako Kasou (10 years experience). Japanese & English consultations available."
+    },
+    "office": {
+      "title": "About Us & Access | Kasou Law Office",
+      "description": "Kasou Law Office location and access. Marunouchi Building 10F, 1-1-1 Marunouchi, Chiyoda-ku, Tokyo. 5-minute walk from JR Tokyo Station."
+    },
+    "fees": {
+      "title": "Fee Schedule | Kasou Law Office",
+      "description": "Attorney fee schedule at Kasou Law Office. First 30-minute consultation free. Retainer and success fee guidelines by practice area."
+    },
+    "contact": {
+      "title": "Book a Consultation | Kasou Law Office",
+      "description": "Book a legal consultation at Kasou Law Office. First 30 minutes free. Available by phone or web form."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy | Kasou Law Office",
+      "description": "Kasou Law Office privacy policy regarding the handling of personal information."
+    },
+    "disclaimer": {
+      "title": "Disclaimer | Kasou Law Office",
+      "description": "Legal disclaimer for the Kasou Law Office website."
+    },
+    "thanks": {
+      "title": "Request Received | Kasou Law Office",
+      "description": "Your consultation request has been received."
+    }
+  },
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "footer": {
+    "description": "Law office in Marunouchi, Chiyoda-ku, Tokyo. Handling divorce, inheritance, labor disputes, corporate law, traffic accidents, and real estate disputes.",
+    "navigation": "Navigation",
+    "officeInfo": "Office Information",
+    "legal": "Legal"
+  }
+}

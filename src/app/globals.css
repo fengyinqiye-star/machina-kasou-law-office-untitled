@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans-jp), "Hiragino Sans", "Meiryo", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1A1A1A;
+  background: #FFFFFF;
+}
+
+/* Mobile fixed bar spacing */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: 4rem;
+  }
+}
